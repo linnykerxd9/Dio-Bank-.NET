@@ -1,0 +1,16 @@
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\bin\Debug\net5.0\Dio.bank.exe
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\bin\Debug\net5.0\Dio.bank.deps.json
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\bin\Debug\net5.0\Dio.bank.runtimeconfig.json
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\bin\Debug\net5.0\Dio.bank.runtimeconfig.dev.json
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\bin\Debug\net5.0\Dio.bank.dll
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\bin\Debug\net5.0\ref\Dio.bank.dll
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\bin\Debug\net5.0\Dio.bank.pdb
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\obj\Debug\net5.0\Dio.bank.csproj.AssemblyReference.cache
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\obj\Debug\net5.0\Dio.bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\obj\Debug\net5.0\Dio.bank.AssemblyInfoInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\obj\Debug\net5.0\Dio.bank.AssemblyInfo.cs
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\obj\Debug\net5.0\Dio.bank.csproj.CoreCompileInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\obj\Debug\net5.0\Dio.bank.dll
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\obj\Debug\net5.0\ref\Dio.bank.dll
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\obj\Debug\net5.0\Dio.bank.pdb
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Everis bootcamp estagio C#\Dio.bank\obj\Debug\net5.0\Dio.bank.genruntimeconfig.cache
